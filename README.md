@@ -18,5 +18,5 @@ This repository contains my Day 1 notes and code examples for Python fundamental
 
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/<your-username>/Python-Basics-Day1.git
+   git clone https://github.com/NidaKhaan/Python-Basics-Day1.git
    cd Python-Basics-Day1
